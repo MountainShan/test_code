@@ -1,0 +1,13 @@
+{
+    "port": "/dev/ttyUSB0",
+    "baudrate": 9600,
+    "bytesize": 8,
+    "parity": "N",
+    "stopbits": 1,
+    "timeout": 1.0,
+    "xonxoff": false,
+    "rtscts": false,
+    "dsrdtr": false,
+    "read_buffer_size": 1024,
+    "write_timeout": 1.0
+}
